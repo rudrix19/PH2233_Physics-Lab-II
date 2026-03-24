@@ -72,7 +72,7 @@ The cooling rate ($\frac{dT}{dt}$) is experimentally determined from the cooling
 
 ## Plots
 <div align="center">
-<img width="701" height="547" alt="image" src="https://github.com/user-attachments/assets/cf1da4f0-f98c-4512-899c-c7f6dbdbb5e9" />
+<img width="701" height="547" alt="image" src="https://github.com/user-attachments/assets/4e72f194-5505-4c53-a6eb-116be82ecf7b" />
 
 </div>
 
@@ -129,11 +129,14 @@ k_linear = - (m * specific_heat_brass * slope * thickness_in_m) / (area_in_m2 * 
 print(f"Thermal conductivity from linear fit: {k_linear:.4f} W/m·K")
 ```
 > Cooling constant (exp fit): 0.00667 1/s  
-> Slope near steady state: -0.08667 °C/s  
-> Thermal conductivity from linear fit: 0.6436 W/m·K  
+> Slope near steady state: -0.10000 °C/s  
+> Thermal conductivity from linear fit: 0.4601 W/m·K  
+> Estimated error in thermal conductivity: ±0.0354 W/m·K  
+> Thermal conductivity of ebonite: 0.4601 ± 0.0354 W/m·K  
+> R2 for linear fit: 0.9941089837997052  
 
 <div align="center">
-<img width="692" height="547" alt="image" src="https://github.com/user-attachments/assets/3398e364-03df-45af-a709-c4bfdf118351" />
+<img width="692" height="547" alt="image" src="https://github.com/user-attachments/assets/ab9c2a50-8965-427b-a4b1-899fa7ba14ea" />
 
 </div>
 
@@ -189,6 +192,9 @@ print(f"Thermal conductivity from linear fit: {k_linear:.4f} W/m·K")
 ```
 
 > Cooling constant (exp fit): 0.01237 1/s  
-> Slope near steady state: -0.20000 °C/s  
-> Thermal conductivity from linear fit: 1.8888 W/m·K
+> Slope near steady state: -0.19000 °C/s  
+> Thermal conductivity from linear fit: 1.4110 W/m·K  
+> Estimated error in thermal conductivity: ±0.0429 W/m·K  
+> Thermal conductivity of ebonite: 1.4110 ± 0.0429 W/m·K  
+> R2 for linear fit: 0.9990774907749078  
 
