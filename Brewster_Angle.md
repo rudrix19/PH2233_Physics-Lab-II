@@ -13,8 +13,6 @@ For an incident beam, the electric field vector can be resolved into two mutuall
 
 Since the boundary conditions affect these components differently, their reflection and transmission coefficients differ.
 
----
-
 ### Fresnel Reflection and Brewster’s Law
 
 According to the Fresnel equations, the amplitude reflection coefficient for the p-polarised component becomes zero at a specific angle of incidence known as the **Brewster angle ($θ_B$)**.
@@ -49,13 +47,9 @@ Thus, the refractive index of the material can be determined by measuring the Br
   <img src="https://github.com/user-attachments/assets/9cd6bd35-4cae-4b23-8b70-74ed54fa3b24" alt="BrewsterAngle">
 </p>
 
----
-
 ### Physical Interpretation
 
 At Brewster’s angle, the induced dipoles in the material oscillate in a direction parallel to the transmitted beam. An oscillating dipole does not radiate along its axis of oscillation; therefore, no p-polarised light is reflected. As a result, the reflected light is purely s-polarised.
-
----
 
 ### Experimental Relevance
 
