@@ -33,7 +33,7 @@ At Brewster’s angle, the reflected and refracted rays are perpendicular:
 
 $$\theta_B + \theta_t = 90^\circ$$
 
-Substituting \( \theta_t = 90^\circ - \theta_B \) into Snell’s law:
+Substituting $\theta_t = 90^\circ - \theta_B$ into Snell’s law:
 
 $$n_1 \sin\theta_B = n_2 \cos\theta_B$$
 
@@ -59,7 +59,7 @@ At Brewster’s angle, the induced dipoles in the material oscillate in a direct
 
 ### Experimental Relevance
 
-In this experiment, monochromatic light is incident on the surface of a transparent microscope glass slide. The reflected intensity is observed as the angle of incidence is varied. The angle at which the reflected intensity of the p-polarised component becomes minimum (ideally zero) is identified as the Brewster angle \( \theta_B \).
+In this experiment, monochromatic light is incident on the surface of a transparent microscope glass slide. The reflected intensity is observed as the angle of incidence is varied. The angle at which the reflected intensity of the p-polarised component becomes minimum (ideally zero) is identified as the Brewster angle $\theta_B$.
 
 Using the relation:
 
@@ -96,8 +96,7 @@ $μ_I$ represents the mean current of five trials, and $σ_I$ denotes the standa
 <div align="center">
 
 ### Figure 1: Reflected Current vs Incident Angle
-
-<img src="https://github.com/user-attachments/assets/83c1b74f-8621-443a-9f19-d0e4541200d5" width="571" height="455">
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/b74817f1-0d2f-4663-99c7-2a4965fa59b5" />
 
 **Caption:** Variation of reflected photocurrent (μA) with angle of incidence (°).  
 The minimum intensity occurs at approximately 55°, corresponding to the Brewster angle.
@@ -124,8 +123,6 @@ $$n=1.428$$
 Comparing this with the standard refractive index of glass (≈ 1.50), the percentage error was 4.8%. The result is reasonably close to the accepted value, confirming the validity of Brewster's law and the reliability of the experimental method.
 
 ## Discussion
-A crucial aspect of this experiment was the controlled use of a polariser and an analyser, which ensured accurate identification of the Brewster angle.
-
 The polariser was used to convert the initially unpolarised light from the source into plane-polarised light. For Brewster's law verification, the incident light must be predominantly p-polarised (with the electric field parallel to the plane of incidence). Only the p-polarised component undergoes zero reflection at the Brewster angle. If the incident beam contains a significant s-component, the reflected intensity will not reduce to a sharp minimum, thereby increasing experimental uncertainty.
 
 The analyser, placed in the path of the reflected beam, served two essential purposes:
